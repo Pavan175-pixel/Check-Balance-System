@@ -19,7 +19,7 @@ A simple banking application built with Python that simulates basic banking oper
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Check-Balance-System-Python.git
+   git clone https://github.com/Pavan175-pixel/Check-Balance-System-Python.git
    ```
 
 2. Navigate to the project folder:
